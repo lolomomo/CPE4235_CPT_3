@@ -7,7 +7,7 @@ package com.cpe4235.selfmylost.service;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public interface SearchService {
 

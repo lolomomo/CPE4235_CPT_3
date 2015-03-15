@@ -10,7 +10,7 @@ import com.cpe4235.selfmylost.serviceimp.SearchByAddress;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class TestSearching {
 

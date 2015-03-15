@@ -9,7 +9,7 @@ import com.cpe4235.selfmylost.service.SearchService;
 
 /**
  *
- * @author RainWhileLoop
+ * @author GunDesstiiniizz
  */
 public class SearchByAddress implements SearchService {
 
