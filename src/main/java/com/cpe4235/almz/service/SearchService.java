@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cpe4235.selfmylost.service;
+package com.cpe4235.almz.service;
 
 /**
  *

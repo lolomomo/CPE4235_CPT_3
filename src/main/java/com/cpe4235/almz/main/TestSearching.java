@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cpe4235.selfmylost.main;
+package com.cpe4235.almz.main;
 
-import com.cpe4235.selfmylost.service.SearchService;
-import com.cpe4235.selfmylost.serviceimp.SearchByAddress;
+import com.cpe4235.almz.service.SearchService;
+import com.cpe4235.almz.serviceimp.SearchByAddress;
 
 /**
  *
